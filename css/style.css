@@ -1,0 +1,62 @@
+/***** BASE STYLES*****/
+
+body {
+      background-color: #DAF7F6;
+      color: #3B3B3B;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 12px;
+      line-height: 16px;
+}
+
+/***** HEADER *****/
+
+header {
+        background-color: white;
+        text-align: center;
+}
+
+h1      {
+        color: #F16059;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 48px;
+        font-weight: bold;
+        display: inline-block;
+        padding: 40px 0;
+        margin: 0;
+        text-transform: uppercase;
+}
+
+header img {
+            margin-right: 16px;
+}
+
+/***** MAIN *****/
+
+main {
+      width: 1000px;
+      margin: 0 auto;
+}
+
+.card {
+      margin: 20px 0;
+      overflow: auto;
+}
+
+.image {
+        width: 500px;
+        height: 550px;
+        float: left;
+}
+
+.recipe {
+        float: left;
+        padding: 20px;
+        background-color: white;
+        width: 500px;
+        height: 550px;
+        box-sizing: border-box;
+}
+
+
+
+}
